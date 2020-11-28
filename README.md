@@ -16,7 +16,15 @@ But I believe that *any sensible person* should be capable of knowing what is ac
 
 **Q: If the [No Code of Conduct](https://github.com/domgetter/NCoC) exists, why modify it? It seems good enough to me already.**
 
-A: I fully agree with the No Code of Conduct. However, not everyone might be clear with the terms *"we are all adults. capable of having adult discussions."* That's why I've elaborated that clause into a more extensive rule of conduct. 
+A: I fully agree with the No Code of Conduct. However, not everyone might be clear with the terms *"we are all adults. capable of having adult discussions."* That's why I've elaborated that clause into a more extensive rule of conduct.
+
+**Q: But surely people aren't that sensible! What happens if someone gets offended by someone else?**
+
+A: In most cases, people don't usually want to intentionally hurt others. Someone having a bad day might just make a comment that others may deem offensive, and not be aware of the comment's offensiveness to the other person. Dealing with this is simple: the offended person should say to the commentor "hey, I was offended by something you said, can we talk this out in private?" Once those two people can engage in a private conversation, the issue is resolved quickly. 
+
+However, if the individual making the offensive comment makes *numerous attempts* to offend others, and *does not respond* to requests to disengage and talk in private, this is considered harrassment. In this case, that individual is clearly toxic to the community, and should not be allowed participate in further community discussions for the time being. If the individual sends a message to the community leaders to apologize for their actions, then they may rejoin the community. However, as long as they do not apologize, they will not be allowed to rejoin. 
+
+Again, I believe that most people are already sensible enough to know this. This is also **already in** the sensible code of conduct, albeit in a more condensed form.     
 
 **Q: Great! How do I add this to my project?**
 
