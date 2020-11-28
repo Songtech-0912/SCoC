@@ -1,4 +1,4 @@
-Songtech's Sensible Code of Conduct 
+# The Sensible Code of Conduct 
 
 > TL;DR I liked the idea of "No Code of Conduct", but I just wanted to explain the "behave like sane adults" part a bit more. So I made my own version - the SCoC.
 
